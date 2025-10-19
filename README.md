@@ -6,10 +6,6 @@
 
 ## 📘 Overview
 
-This repository implements and extends the methods proposed in  
-[*Building causation links in stochastic nonlinear systems from data*](https://arxiv.org/abs/2509.07701)  
-by **Davide Rossetti, Sergio Chibbaro, Cyril Furtlehner, Théo Marchetta,** and **Andrei-Tiberiu Pantea** (2025).
-
 The work explores how **response theory**—traditionally used in physics to quantify how a system reacts to perturbations—can be combined with **machine learning** to infer **causal relationships** directly from data, without explicit knowledge of the underlying equations of motion.
 
 Two main classes of systems are considered:
